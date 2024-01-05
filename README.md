@@ -1,7 +1,7 @@
 - Hi, I’m Josiah Oriendo
 - Computer Science Student at the Univeristy of Maryland
 - Future Software Engineer
-- Learning Python
+- Learning APIs
 - Reachable By: josiah.oriendo@gmail.com
 
 <!---
