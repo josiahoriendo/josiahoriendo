@@ -1,7 +1,7 @@
 - Hi, I’m Josiah Oriendo
 - Computer Science Student at the Univeristy of Maryland
-- Future Software Engineer
-- Learning APIs
+- Incoming Cloud Engineer at Oracle
+- Learning Cloud Native Technologies
 - Reachable By: josiah.oriendo@gmail.com
 
 <!---
