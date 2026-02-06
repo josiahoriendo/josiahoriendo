@@ -1,6 +1,6 @@
 - Hi, I’m Josiah Oriendo
 - Cloud Solutions Engineer @ Oracle
-- Graudated BSCS from UMD
+- Graudated BSCS @ UMD
 - Reachable By: josiah.oriendo@gmail.com
 
 <!---
