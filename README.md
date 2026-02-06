@@ -1,7 +1,6 @@
 - Hi, I’m Josiah Oriendo
-- Computer Science Student at the Univeristy of Maryland
-- Incoming Cloud Engineer at Oracle
-- Learning Cloud Native Technologies
+- Cloud Solutions Engineer @ Oracle
+- Graudated BSCS from UMD
 - Reachable By: josiah.oriendo@gmail.com
 
 <!---
